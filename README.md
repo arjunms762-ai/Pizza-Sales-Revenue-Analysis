@@ -54,4 +54,6 @@ Built an interactive dashboard with KPI cards, slicers, charts, sales trends, an
 ## 7.  Business Insights
 Interpreted the analysis to identify important revenue, product, category, and order trends.
 
+![](https://github.com/arjunms762-ai/Pizza-Sales-Revenue-Analysis/blob/main/Screenshot%20(55).png)
+
 
