@@ -27,7 +27,6 @@ Analyze pizza sales data to understand revenue, orders, quantity sold, product p
 
 ## Steps
 
-Below are the key steps taken in the VAPT process:
 
 ### 1. Data Collection & Understanding
 Reviewed the pizza sales dataset and understood order, product, category, size, quantity, price, and date fields.
